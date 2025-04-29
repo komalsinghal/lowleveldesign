@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ParkingLot.iml" filepath="$PROJECT_DIR$/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bookmyshow/Bookmyshow.iml" filepath="$PROJECT_DIR$/Bookmyshow/Bookmyshow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KafkaWithThreading/KafkaWithThreading.iml" filepath="$PROJECT_DIR$/KafkaWithThreading/KafkaWithThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowleveldesign.iml" filepath="$PROJECT_DIR$/lowleveldesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parkinglot/parkinglot.iml" filepath="$PROJECT_DIR$/parkinglot/parkinglot.iml" />
     </modules>
   </component>
 </project>

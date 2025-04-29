@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe61d2eb-ebbf-4eaa-b7a4-089f5e70bd57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Kafka/src/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaWithThreading/src/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaWithThreading/src/ConsumerGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaWithThreading/src/ConsumerState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaWithThreading/src/ConsumerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaWithThreading/src/KafkaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaWithThreading/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaWithThreading/src/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaWithThreading/src/ProducerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KafkaWithThreading/src/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lowleveldesign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bookmyshow/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bookmyshow/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParkingLot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/parkinglot/parkinglot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/LLD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/LLD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/Common/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/Common/ConsumerGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/Common/ConsumerGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/Common/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/Common/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/Common/Offset.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/Common/Offset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/Common/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/Common/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/Common/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/Common/Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/ConsumerHelperService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/ConsumerHelperService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/Controller/ConsumerGroupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/Controller/ConsumerGroupController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/Controller/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/Controller/TopicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/IConsumerHelperService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/IConsumerHelperService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/IProducerHelperService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/IProducerHelperService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/KafkaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/KafkaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/KafaService/ProducerHelperService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/ProducerHelperService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kafka/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parkinglot/ParkingLot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KafkaWithThreading/KafkaWithThreading.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "komalsinghal"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/komalsinghal/lowleveldesign.git",
+    "accountId": "cd327948-6e37-4dbd-a62f-4fb3ea1b144d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2wJFaoAnGKf5v481IXyXMfs60oZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/tarun/IdeaProjects/lowleveldesign/KafkaWithThreading/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="parkinglot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="lowleveldesign" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="KafkaWithThreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Bookmyshow" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe61d2eb-ebbf-4eaa-b7a4-089f5e70bd57" name="Changes" comment="" />
+      <created>1745751837419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745751837419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/KafkaWithThreading/src/Main.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
